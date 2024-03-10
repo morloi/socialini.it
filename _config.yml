@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "it-IT"
 title                    : "Socialini - Un esperimento pedagogico!"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Socialini Crew"
+description              : "un progetto di autoeducazione e autoformazione all'uso critico degli strumenti online"
 url                      : "https://morloi.socialini.it" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
