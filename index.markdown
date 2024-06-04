@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 excerpt: "Una palestra di autoeducazione digitale, per bambinə e ragazzə di tutte le età"
 header:
-  overlay_color: "#333"
+  overlay_color: "#3a32e2"
   actions:
     - label: "Richiedi ora il tuo Socialino!"
       url: "mailto:ciao@socialini.it"
