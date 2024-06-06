@@ -3,7 +3,7 @@ layout: single
 title:  "Come funziona Socialini"
 permalink: /come-funziona/
 ---
-Come si diceva sopra, lo scopo fondamentale di SOCIALINI è fornire allə ragazzə **spazi e sistemi che consentano loro di allenarsi in libertà**, dei veri e propri SOCIALINI privati, coadiuvati da uno o più *facilitatorə*, in maniera da sviluppare anticorpi che aiutino ad affrontare l'Internet in modo costruttivo, senza farsi fagocitare da **Doom Scrolling** e dalla **tossicità** insita in molti dei meccanismi Social attuali.
+Come si diceva sopra, lo scopo fondamentale di SOCIALINI è fornire allə ragazzə **spazi e sistemi che consentano loro di allenarsi in libertà**, dei veri e propri SOCIALINI privati, coadiuvati da uno o più *facilitatorə*, in maniera da sviluppare anticorpi che aiutino ad affrontare Internet in modo costruttivo, senza farsi fagocitare da **Doom Scrolling** e dalla **tossicità** insita in molti dei meccanismi Social attuali.
 
 **Come?**
 

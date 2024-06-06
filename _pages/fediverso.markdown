@@ -3,7 +3,7 @@ layout: single
 title:  "Cos'è il Fediverso e come funziona"
 permalink: /fediverso/
 ---
-L'Internet nasce dalla volontà di fare comunicare **reti diverse**, federandole grazie a **protocolli standard**, decisi collettivamente da **consorzi, università, comunità scientifiche**. 
+Internet nasce dalla volontà di fare comunicare **reti diverse**, federandole grazie a **protocolli standard**, decisi collettivamente da **consorzi, università, comunità scientifiche**. 
 
 Se possiamo comunicare via **email** con chiunque abbia un indirizzo a dispetto del provider che glielo fornisce, sia Google, Yahoo, Aruba, o una piccola azienda locale, è proprio **grazie a questo tipo di standard**, che rende interoperabili le piattaforme di invio email.
 
