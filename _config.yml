@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "neon" #,"sunrise", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "it-IT"
-
+favicon                  : "/assets/images/favicon.png"
 title                    : "Socialini - Un esperimento pedagogico!"
 title_separator          : "-"
 name                     : "Socialini Crew"
