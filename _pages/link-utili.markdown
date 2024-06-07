@@ -7,7 +7,7 @@ permalink: /link-utili/
 
 - [**Fediverso**](https://fediverso.info/) - Il sito del fediverso italiano, con link a risorse, informazioni utili e molto altro
 - [**Mastodon**](https://joinmastodon.org/) - La piattaforma di microblogging/social più utlizzata
-- [**PerTube**](https://joinpeertube.org/it) - Sistema di streaming video
+- [**PeerTube**](https://joinpeertube.org/it) - Sistema di streaming video
 - [**FunkWhale**](https://www.funkwhale.audio/) - Condivisione di podcast e musica
 - [**CastoPod**](https://castopod.org/) - Piattaforma di podcasting
 - [**BookWyrm**](https://joinbookwyrm.com/) - Condivisione delle proprie letture, recensioni e commenti
