@@ -13,7 +13,7 @@ permalink: /link-utili/
 - [**BookWyrm**](https://joinbookwyrm.com/) - Condivisione delle proprie letture, recensioni e commenti
 
 e soprattutto
-- [**Livello Segreto**](livellosegreto.it) L'istanza Mastodon voluta e gestita da Kenobit, Ed e una serie di volontariə, dove è nato tutto.
+- [**Livello Segreto**](https://livellosegreto.it) L'istanza Mastodon voluta e gestita da Kenobit, Ed e una serie di volontariə, dove è nato tutto.
 
 ## Altre risorse da usare come contenuti per i facilitatori
 
