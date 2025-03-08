@@ -1,7 +1,7 @@
 ---
 layout: home
 author_profile: true
-excerpt: "Una palestra di autoeducazione digitale, per bambinə e ragazzə di tutte le età"
+excerpt: "L'accesso al Fediverso per la tua comunità, reso semplice e una palestra di autoeducazione digitale, per tuttə"
 header:
   overlay_color: "#FF0080"
   logo_image                     : "/assets/images/socialini_logo.png"
@@ -10,14 +10,20 @@ header:
     - label: "Richiedi ora il tuo Socialino!"
       url: "mailto:ciao@socialini.it"
 ---
-#### Appunti per un progetto di autoeducazione e autoformazione all'uso critico degli strumenti online
+#### Appunti per un progetto di riappropriazione degli spazi digitali, di autoeducazione e autoformazione all'uso critico degli strumenti online
 
 > Un lettore attento potrebbe chiedermi: se Internet non è un’unica rete, perché la chiami **"la rete"**? Mi rendo conto dell’apparente contraddizione, ma è abitudine diffusa chiamarla, famigliarmente, the Net, o "la rete". Perché in pratica si comporta come se fosse una rete unica; e di fatto è un unico sistema seamless, continuo e intercomunicante. Ma mi sembra importante capire **che questo sistema è policentrico**, non ha un "governo" centrale; non solo ogni rete, ma ogni operatore è libero e indipendente. 
 
 *Giancarlo Livraghi - Gandalf.it - Dicembre 1997*
 
 ## Cos'è *SOCIALINI*
-Il web, Internet, sono **strumenti complessi**, articolati e difficili da maneggiare. Il fatto che ora ci vengano propinati sotto forma di agili app, sempre a disposizione, non deve trarci in inganno. 
+Il web, Internet, sono **strumenti complessi**, articolati e difficili da maneggiare. Non solo: in questo momento, appare sempre più chiaro che le grandi piattaforme commerciali rappresentino un problema non solo per la nostra socialità, ma anche per il tessuto democratico e civile.
+
+Sempre più persone, ma anche realtà come associazioni, scuole, collettivi, sentono l'urgenza di allontanarsi, per motivi pratici e etici, dai grandi social: nello stesso tempo la rinuncia totale allo strumento digitale è sicuramente una sconfitta sotto molti punti di vista, sia pratici, sia di valore.
+
+**Esistono alternative**, grazie al software libero, agli standard aperti e al lavoro volontario di centinaia di sviluppatorə e appassionatə di tutto il mondo: il **Fediverso** è una galassia di applicazioni che condividono il modo di comunicare, creando un network interoperante, aperto a tuttə. **Mastodon, Pixelfed, Peertube** sono solo alcune delle porte di accesso al fediverso.
+
+Ma al fediverso non "si accede", il fediverso si costruisce, con la tipica attitudine hacker che contraddistingue il rapporto sano con la tecnologia. Esistono ovviamente moltissime istanze a cui iscriversi, come se lo si facesse con un social commerciale, ognuna con le sue regole, il suo mood, le sue modalità di sostentamento, alcune molto popolate, ma il concetto vero di Fediverso 
 
 Lə **"Nativə Digitalə"**, sia la Gen Z, sia la Gen Alpha, hanno in realtà **enormi difficoltà** a gestire correttamente il flusso di **social, piattaforme di intrattenimento, risorse e strumenti**, proprio per il fatto che, avendoli a disposizione "magicamente", difficilmente si interrogano sulle **dinamiche** e sul **funzionamento** delle piattaforme.
 
