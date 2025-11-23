@@ -4,10 +4,12 @@ main:
     url: /
   - title: "Il Fediverso"
     url: /fediverso/
-  - title: "Come Funziona Socialini"
+  - title: "Come Funziona"
     url: /come-funziona/
-  - title: "Link Utili"
+  - title: "Bibliografia"
     url: /link-utili/
+  - title: "Blog"
+    url: /posts/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

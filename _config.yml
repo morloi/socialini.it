@@ -182,11 +182,12 @@ defaults:
       type: posts
     values:
       layout: single
+      meta: true
       author_profile: true
       read_time: true
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false
   - scope:
       path: ""
       type: pages
